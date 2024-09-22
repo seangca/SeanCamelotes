@@ -4,7 +4,7 @@
   margin-inline: 30%;
   margin-top: 0;
   font-family: Arial, Helvetica, sans-serif;
-  position: relative;
+  position: static;
 }
 
 /*NAVIGATION BAR*/
