@@ -12,6 +12,7 @@ body {
 /*Nagavation Bar*/
 
 .topnav {
+  position: sticky;
   overflow: hidden;
   background-color: #333;
   top: 0;
